@@ -1,0 +1,13 @@
+C:\Users\ACER\source\repos\EmployeeTimeKeepingSystem\EmployeeTimeKeepingSystem\bin\Debug\netcoreapp3.1\EmployeeTimeKeepingSystem.exe
+C:\Users\ACER\source\repos\EmployeeTimeKeepingSystem\EmployeeTimeKeepingSystem\bin\Debug\netcoreapp3.1\EmployeeTimeKeepingSystem.deps.json
+C:\Users\ACER\source\repos\EmployeeTimeKeepingSystem\EmployeeTimeKeepingSystem\bin\Debug\netcoreapp3.1\EmployeeTimeKeepingSystem.runtimeconfig.json
+C:\Users\ACER\source\repos\EmployeeTimeKeepingSystem\EmployeeTimeKeepingSystem\bin\Debug\netcoreapp3.1\EmployeeTimeKeepingSystem.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\EmployeeTimeKeepingSystem\EmployeeTimeKeepingSystem\bin\Debug\netcoreapp3.1\EmployeeTimeKeepingSystem.dll
+C:\Users\ACER\source\repos\EmployeeTimeKeepingSystem\EmployeeTimeKeepingSystem\bin\Debug\netcoreapp3.1\EmployeeTimeKeepingSystem.pdb
+C:\Users\ACER\source\repos\EmployeeTimeKeepingSystem\EmployeeTimeKeepingSystem\obj\Debug\netcoreapp3.1\EmployeeTimeKeepingSystem.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\EmployeeTimeKeepingSystem\EmployeeTimeKeepingSystem\obj\Debug\netcoreapp3.1\EmployeeTimeKeepingSystem.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\EmployeeTimeKeepingSystem\EmployeeTimeKeepingSystem\obj\Debug\netcoreapp3.1\EmployeeTimeKeepingSystem.AssemblyInfo.cs
+C:\Users\ACER\source\repos\EmployeeTimeKeepingSystem\EmployeeTimeKeepingSystem\obj\Debug\netcoreapp3.1\EmployeeTimeKeepingSystem.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\EmployeeTimeKeepingSystem\EmployeeTimeKeepingSystem\obj\Debug\netcoreapp3.1\EmployeeTimeKeepingSystem.dll
+C:\Users\ACER\source\repos\EmployeeTimeKeepingSystem\EmployeeTimeKeepingSystem\obj\Debug\netcoreapp3.1\EmployeeTimeKeepingSystem.pdb
+C:\Users\ACER\source\repos\EmployeeTimeKeepingSystem\EmployeeTimeKeepingSystem\obj\Debug\netcoreapp3.1\EmployeeTimeKeepingSystem.genruntimeconfig.cache
