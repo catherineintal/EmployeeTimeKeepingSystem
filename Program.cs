@@ -33,16 +33,19 @@ namespace EmployeeTimeKeepingSystem
             Console.Write("Enter your Time Out:    ");
             TimeOut = Console.ReadLine();
 
-            Console.WriteLine("======================================");
+            Console.WriteLine();
+            Console.WriteLine("Inserted Successfully!");
 
+            Console.WriteLine("======================================");
+          
             Console.WriteLine("Employee Name: " + firstName + lastName);
             Console.WriteLine("Date Today:  " + Date);
             Console.WriteLine("Time-In: " + TimeIn);
             Console.WriteLine("Time-Out: " + TimeOut);
-            Console.WriteLine("Inserted Successfully!");
             Console.ReadLine();
 
             Console.WriteLine("======================================");
+
 
 
 
