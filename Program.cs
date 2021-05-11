@@ -48,21 +48,50 @@ namespace EmployeeTimeKeepingSystem
 
             Console.WriteLine("======================================");
 
-                Console.WriteLine("  Employee Attendance  System   ");
+            Console.WriteLine("  Employee Attendance  System   ");
 
-                var EmployeeAttendance = new List<string>()
-                {" 05/02/21 - Time In: 8:00am - Time Out: 5:00pm",       "05/03/21 - Time In: 9:00am - Time Out: 6:00pm",
-                 " 05/04/21 - Time In: 7:00am - Time Out: 7:00pm",       "05/05/21 - Time In: 10:00am - Time Out: 8:00pm" };
+            var EmployeeAttendance = new List<string>()
+                {" 05/11/21 - Time In: 8:00am - Time Out: 5:00pm", };
 
-                foreach (var AttendanceLog in EmployeeAttendance)
+            foreach (var AttendanceLog in EmployeeAttendance)
+            {
+                Console.WriteLine($"{AttendanceLog}");
+
+
+                Console.WriteLine("======================================");
+               
+                ShowMenu();
+            }
+            static void ShowMenu()
+            {
+                Console.WriteLine("Type to close the Program");
+                Console.WriteLine("'e' - To Exit Program");
+
+                char menu = Convert.ToChar(Console.ReadLine());
+                menu = char.ToLower(menu);
+
+                switch (menu)
                 {
-                    Console.WriteLine($"{AttendanceLog}");
 
+                    case 'e':
+                        ExitProgram();
+                        break;
 
+                    default:
+                        Console.WriteLine("Invalid Option!");
+                        break;
                 }
             }
+        }
 
+        private static void ExitProgram()
+        {
+            throw new NotImplementedException();
         }
     }
+
+    }
+
+
 
 
