@@ -51,8 +51,8 @@ namespace EmployeeTimeKeepingSystem
             Console.WriteLine("  Employee Attendance  System   ");
 
             var EmployeeAttendance = new List<string>()
-                {" 05/11/21 - Time In: 8:00am - Time Out: 5:00pm", "05/11/21 - Time In: 8:00am - Time Out: 5:00pm",
-                "05/11/21 - Time In: 8:00am - Time Out: 5:00pm",    "05/11/21 - Time In: 8:00am - Time Out: 5:00pm", };
+                {" 06/24/21 - Time In: 8:00am - Time Out: 5:00pm",    "06/26/21 - Time In: 8:00am - Time Out: 5:00pm",
+                "  06/25/21 - Time In: 8:00am - Time Out: 5:00pm",    "06/27/21 - Time In: 8:00am - Time Out: 5:00pm", };
 
 
             foreach (var AttendanceLog in EmployeeAttendance)
