@@ -15,6 +15,7 @@ namespace EmployeeTimeKeepingSystem
 
             Console.WriteLine();
 
+
             string firstName;
             Console.Write("Enter your First Name:  ");
             firstName = Console.ReadLine();
@@ -52,7 +53,7 @@ namespace EmployeeTimeKeepingSystem
 
             var EmployeeAttendance = new List<string>()
                 {" 06/24/21 - Time In: 8:00am - Time Out: 5:00pm",    "06/26/21 - Time In: 8:00am - Time Out: 5:00pm",
-                "  06/25/21 - Time In: 8:00am - Time Out: 5:00pm",    "06/27/21 - Time In: 8:00am - Time Out: 5:00pm", };
+                "  06/25/21 - Time In: 8:00am - Time Out: 5:00pm",    "06/27 /21 - Time In: 8:00am - Time Out: 5:00pm", };
 
 
             foreach (var AttendanceLog in EmployeeAttendance)
